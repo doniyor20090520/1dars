@@ -1,0 +1,82 @@
+body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: green;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+
+    header h1 {
+      margin: 0;
+    }
+
+    header p {
+      font-size: 14px;
+    }
+
+    .form-section {
+      background-color: #f2f2f2;
+      padding: 20px;
+    }
+
+    .form-section h2 {
+      margin-bottom: 10px;
+    }
+
+    input, textarea {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 10px;
+      box-sizing: border-box;
+    }
+
+    button {
+      background-color: green;
+      color: white;
+      padding: 8px 20px;
+      border: none;
+      cursor: pointer;
+    }
+
+    .team-section {
+      padding: 20px;
+    }
+
+    .team-section img {
+      width: 100%;
+      max-width: 400px;
+      display: block;
+      margin-bottom: 10px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    table, th, td {
+      border: 1px solid #ddd;
+    }
+
+    th, td {
+      padding: 10px;
+      text-align: left;
+    }
+
+    map-section {
+      padding: 20px;
+      border-radius: 10px;
+    }
+
+    footer {
+      background-color: #222;
+      color: #fff;
+      text-align: center;
+      padding: 10px;
+      font-size: 14px;
+    }
